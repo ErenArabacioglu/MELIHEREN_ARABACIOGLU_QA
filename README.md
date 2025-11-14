@@ -1,6 +1,6 @@
 # Insider QA Project
 
-This project contains a simple Selenium automation framework for the Insider QA assignment.  
+This project contains a simple Selenium automation framework for the Insider QA task.  
 It was developed using **Python**, **Selenium** and **PyTest**, following the **Page Object Model (POM)** structure.
 
 ### The tests include:
@@ -10,5 +10,6 @@ It was developed using **Python**, **Selenium** and **PyTest**, following the **
 To run the tests:
 ```bash
 pytest -q
+
 
 
